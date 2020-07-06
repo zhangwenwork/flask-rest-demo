@@ -9,6 +9,8 @@
 .coverage
 **/.coverage
 
+__pycache__
+
 htmlcov/
 
 .idea/
