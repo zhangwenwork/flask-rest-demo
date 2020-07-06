@@ -1,0 +1,10 @@
+flask
+grpcio
+grpcio-tools
+requests
+pytest-grpc
+
+# Testing
+pytest
+coverage
+
